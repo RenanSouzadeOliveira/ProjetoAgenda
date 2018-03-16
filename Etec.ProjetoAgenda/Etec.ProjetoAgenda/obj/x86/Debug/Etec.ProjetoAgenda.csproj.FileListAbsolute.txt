@@ -1,0 +1,22 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.FAgenda.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.ProjetoAgenda\bin\Debug\Etec.ProjetoAgenda.exe.config
+C:\Users\Aluno_2\Desktop\Etec.ProjetoAgenda\Etec.ProjetoAgenda\bin\Debug\Etec.ProjetoAgenda.exe.config
+C:\Users\Aluno_2\Desktop\Etec.ProjetoAgenda\Etec.ProjetoAgenda\bin\Debug\Etec.ProjetoAgenda.exe
+C:\Users\Aluno_2\Desktop\Etec.ProjetoAgenda\Etec.ProjetoAgenda\bin\Debug\Etec.ProjetoAgenda.pdb
+C:\Users\Aluno_2\Desktop\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.FAgenda.resources
+C:\Users\Aluno_2\Desktop\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.Properties.Resources.resources
+C:\Users\Aluno_2\Desktop\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.csproj.GenerateResource.Cache
+C:\Users\Aluno_2\Desktop\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.exe
+C:\Users\Aluno_2\Desktop\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.pdb
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\bin\Debug\Etec.ProjetoAgenda.exe.config
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.exe
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.pdb
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\bin\Debug\Etec.ProjetoAgenda.exe
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\bin\Debug\Etec.ProjetoAgenda.pdb
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.FAgenda.resources
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\Etec.ProjetoAgenda.Properties.Resources.resources
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\etec\DS II\Etec.ProjetoAgenda\Etec.ProjetoAgenda\obj\x86\Debug\GenerateResource.write.1.tlog

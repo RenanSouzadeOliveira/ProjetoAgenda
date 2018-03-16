@@ -1,0 +1,3 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.ProjetoAgenda\obj\x86\Release\Etec.ProjetoAgenda.FAgenda.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.ProjetoAgenda\obj\x86\Release\Etec.ProjetoAgenda.Properties.Resources.resources
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Etec.ProjetoAgenda\obj\x86\Release\Etec.ProjetoAgenda.csproj.GenerateResource.Cache
